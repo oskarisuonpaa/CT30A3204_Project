@@ -1,0 +1,40 @@
+.btn-primary {
+  color: #fff !important;
+  background-color: #9e1316 !important;
+  border-color: #9e1316 !important;
+}
+
+.btn-outline-primary {
+  color: #fff !important;
+  border-color: #9e1316 !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: #9e1316 !important;
+}
+
+.background-primary {
+  background: #3f3f3f;
+}
+
+.form-container {
+  color: white;
+  border-style: solid;
+  border-color: #9e1316;
+  height: fit-content;
+  max-width: 80vw;
+  padding: 3rem;
+}
+
+.post-container {
+  color: white;
+  border-style: solid;
+  border-color: #9e1316;
+  height: fit-content;
+  width: 80vw;
+  padding: 3rem;
+}
+
+.page-container {
+  min-height: calc(100vh - 60px);
+}
